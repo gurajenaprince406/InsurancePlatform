@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|c:\\users\\user\\source\\repos\\insuranceplatform\\insuranceplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|solutionrelative:insuranceplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|c:\\users\\user\\source\\repos\\insuranceplatform\\insuranceplatform\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|solutionrelative:insuranceplatform\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|c:\\users\\user\\source\\repos\\insuranceplatform\\insuranceplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|solutionrelative:insuranceplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|c:\\users\\user\\source\\repos\\insuranceplatform\\insuranceplatform\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|solutionrelative:insuranceplatform\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|c:\\users\\user\\source\\repos\\insuranceplatform\\insuranceplatform\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|solutionrelative:insuranceplatform\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|c:\\users\\user\\source\\repos\\insuranceplatform\\insuranceplatform\\models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|solutionrelative:insuranceplatform\\models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|c:\\users\\user\\source\\repos\\insuranceplatform\\insuranceplatform\\models\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|solutionrelative:insuranceplatform\\models\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|c:\\users\\user\\source\\repos\\insuranceplatform\\insuranceplatform\\models\\motorrisk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|solutionrelative:insuranceplatform\\models\\motorrisk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|c:\\users\\user\\source\\repos\\insuranceplatform\\insuranceplatform\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|solutionrelative:insuranceplatform\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|c:\\users\\user\\source\\repos\\insuranceplatform\\insuranceplatform\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|solutionrelative:insuranceplatform\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|c:\\users\\user\\source\\repos\\insuranceplatform\\insuranceplatform\\models\\dtos\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|solutionrelative:insuranceplatform\\models\\dtos\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|c:\\users\\user\\source\\repos\\insuranceplatform\\insuranceplatform\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|solutionrelative:insuranceplatform\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|c:\\users\\user\\source\\repos\\insuranceplatform\\insuranceplatform\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|solutionrelative:insuranceplatform\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|c:\\users\\user\\source\\repos\\insuranceplatform\\insuranceplatform\\controllers\\motorriskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|solutionrelative:insuranceplatform\\controllers\\motorriskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|c:\\users\\user\\source\\repos\\insuranceplatform\\insuranceplatform\\controllers\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|solutionrelative:insuranceplatform\\controllers\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "InsurancePlatform\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\appsettings.Development.json",
+              "RelativeToolTip": "InsurancePlatform\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T22:43:07.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\appsettings.json",
+              "RelativeDocumentMoniker": "InsurancePlatform\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\appsettings.json",
+              "RelativeToolTip": "InsurancePlatform\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T22:42:56.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\Models\\Email.cs",
+              "RelativeDocumentMoniker": "InsurancePlatform\\Models\\Email.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\Models\\Email.cs",
+              "RelativeToolTip": "InsurancePlatform\\Models\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:19:41.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddressDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\Models\\DTOs\\AddressDto.cs",
+              "RelativeDocumentMoniker": "InsurancePlatform\\Models\\DTOs\\AddressDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\Models\\DTOs\\AddressDto.cs",
+              "RelativeToolTip": "InsurancePlatform\\Models\\DTOs\\AddressDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:11:56.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\Program.cs",
+              "RelativeDocumentMoniker": "InsurancePlatform\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\Program.cs",
+              "RelativeToolTip": "InsurancePlatform\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:04:39.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "InsurancePlatform\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "InsurancePlatform\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:58:40.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "InsurancePlatform\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "InsurancePlatform\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:55:11.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "InsurancePlatform\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\Models\\Address.cs",
+              "RelativeToolTip": "InsurancePlatform\\Models\\Address.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:21:01.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MotorRisk.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\Models\\MotorRisk.cs",
+              "RelativeDocumentMoniker": "InsurancePlatform\\Models\\MotorRisk.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\Models\\MotorRisk.cs",
+              "RelativeToolTip": "InsurancePlatform\\Models\\MotorRisk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:52:47.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Quote.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\Models\\Quote.cs",
+              "RelativeDocumentMoniker": "InsurancePlatform\\Models\\Quote.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\Models\\Quote.cs",
+              "RelativeToolTip": "InsurancePlatform\\Models\\Quote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:51:47.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\Models\\User.cs",
+              "RelativeDocumentMoniker": "InsurancePlatform\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\Models\\User.cs",
+              "RelativeToolTip": "InsurancePlatform\\Models\\User.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:50:33.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "InsurancePlatform\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "InsurancePlatform\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:28:40.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PhoneNumber.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\Models\\PhoneNumber.cs",
+              "RelativeDocumentMoniker": "InsurancePlatform\\Models\\PhoneNumber.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\Models\\PhoneNumber.cs",
+              "RelativeToolTip": "InsurancePlatform\\Models\\PhoneNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:19:57.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MotorRiskController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\Controllers\\MotorRiskController.cs",
+              "RelativeDocumentMoniker": "InsurancePlatform\\Controllers\\MotorRiskController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\Controllers\\MotorRiskController.cs",
+              "RelativeToolTip": "InsurancePlatform\\Controllers\\MotorRiskController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:02:37.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QuoteController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\Controllers\\QuoteController.cs",
+              "RelativeDocumentMoniker": "InsurancePlatform\\Controllers\\QuoteController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\InsurancePlatform\\Controllers\\QuoteController.cs",
+              "RelativeToolTip": "InsurancePlatform\\Controllers\\QuoteController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T18:32:02.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

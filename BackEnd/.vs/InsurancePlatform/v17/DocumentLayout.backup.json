@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\BackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1B9FDA-346C-4F7B-90FF-D004DC4480E4}|InsurancePlatform.Tests\\InsurancePlatform.Tests.csproj|c:\\users\\user\\source\\repos\\insuranceplatform\\backend\\insuranceplatform.tests\\motorriskcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1B9FDA-346C-4F7B-90FF-D004DC4480E4}|InsurancePlatform.Tests\\InsurancePlatform.Tests.csproj|solutionrelative:insuranceplatform.tests\\motorriskcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1B9FDA-346C-4F7B-90FF-D004DC4480E4}|InsurancePlatform.Tests\\InsurancePlatform.Tests.csproj|c:\\users\\user\\source\\repos\\insuranceplatform\\backend\\insuranceplatform.tests\\profilecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1B9FDA-346C-4F7B-90FF-D004DC4480E4}|InsurancePlatform.Tests\\InsurancePlatform.Tests.csproj|solutionrelative:insuranceplatform.tests\\profilecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MotorRiskControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\BackEnd\\InsurancePlatform.Tests\\MotorRiskControllerTests.cs",
+              "RelativeDocumentMoniker": "InsurancePlatform.Tests\\MotorRiskControllerTests.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\BackEnd\\InsurancePlatform.Tests\\MotorRiskControllerTests.cs*",
+              "RelativeToolTip": "InsurancePlatform.Tests\\MotorRiskControllerTests.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T09:02:08.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProfileControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\BackEnd\\InsurancePlatform.Tests\\ProfileControllerTests.cs",
+              "RelativeDocumentMoniker": "InsurancePlatform.Tests\\ProfileControllerTests.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\BackEnd\\InsurancePlatform.Tests\\ProfileControllerTests.cs",
+              "RelativeToolTip": "InsurancePlatform.Tests\\ProfileControllerTests.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T08:39:12.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
