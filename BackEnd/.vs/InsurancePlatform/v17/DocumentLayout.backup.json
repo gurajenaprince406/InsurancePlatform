@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\BackEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB1B9FDA-346C-4F7B-90FF-D004DC4480E4}|InsurancePlatform.Tests\\InsurancePlatform.Tests.csproj|c:\\users\\user\\source\\repos\\insuranceplatform\\backend\\insuranceplatform.tests\\motorriskcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB1B9FDA-346C-4F7B-90FF-D004DC4480E4}|InsurancePlatform.Tests\\InsurancePlatform.Tests.csproj|solutionrelative:insuranceplatform.tests\\motorriskcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|c:\\users\\user\\source\\repos\\insuranceplatform\\backend\\insuranceplatform\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|solutionrelative:insuranceplatform\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB1B9FDA-346C-4F7B-90FF-D004DC4480E4}|InsurancePlatform.Tests\\InsurancePlatform.Tests.csproj|c:\\users\\user\\source\\repos\\insuranceplatform\\backend\\insuranceplatform.tests\\profilecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB1B9FDA-346C-4F7B-90FF-D004DC4480E4}|InsurancePlatform.Tests\\InsurancePlatform.Tests.csproj|solutionrelative:insuranceplatform.tests\\profilecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|c:\\users\\user\\source\\repos\\insuranceplatform\\backend\\insuranceplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|solutionrelative:insuranceplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|c:\\users\\user\\source\\repos\\insuranceplatform\\backend\\insuranceplatform\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|solutionrelative:insuranceplatform\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|c:\\users\\user\\source\\repos\\insuranceplatform\\backend\\insuranceplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30EE6CC5-329E-4707-ACBB-572CC159334A}|InsurancePlatform\\InsurancePlatform.csproj|solutionrelative:insuranceplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,27 +43,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MotorRiskControllerTests.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\BackEnd\\InsurancePlatform.Tests\\MotorRiskControllerTests.cs",
-              "RelativeDocumentMoniker": "InsurancePlatform.Tests\\MotorRiskControllerTests.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\BackEnd\\InsurancePlatform.Tests\\MotorRiskControllerTests.cs*",
-              "RelativeToolTip": "InsurancePlatform.Tests\\MotorRiskControllerTests.cs*",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T09:02:08.861Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\BackEnd\\InsurancePlatform\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "InsurancePlatform\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\BackEnd\\InsurancePlatform\\Properties\\launchSettings.json",
+              "RelativeToolTip": "InsurancePlatform\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T17:32:44.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProfileControllerTests.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\BackEnd\\InsurancePlatform.Tests\\ProfileControllerTests.cs",
-              "RelativeDocumentMoniker": "InsurancePlatform.Tests\\ProfileControllerTests.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\BackEnd\\InsurancePlatform.Tests\\ProfileControllerTests.cs",
-              "RelativeToolTip": "InsurancePlatform.Tests\\ProfileControllerTests.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\BackEnd\\InsurancePlatform\\Program.cs",
+              "RelativeDocumentMoniker": "InsurancePlatform\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\BackEnd\\InsurancePlatform\\Program.cs",
+              "RelativeToolTip": "InsurancePlatform\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T08:39:12.189Z",
+              "WhenOpened": "2024-11-09T17:32:33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\BackEnd\\InsurancePlatform\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "InsurancePlatform\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\BackEnd\\InsurancePlatform\\appsettings.Development.json",
+              "RelativeToolTip": "InsurancePlatform\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T17:32:26.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\BackEnd\\InsurancePlatform\\appsettings.json",
+              "RelativeDocumentMoniker": "InsurancePlatform\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\InsurancePlatform\\BackEnd\\InsurancePlatform\\appsettings.json",
+              "RelativeToolTip": "InsurancePlatform\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T17:32:17.227Z",
               "EditorCaption": ""
             }
           ]
