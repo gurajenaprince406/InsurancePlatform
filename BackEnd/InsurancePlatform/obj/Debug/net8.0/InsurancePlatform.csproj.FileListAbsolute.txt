@@ -289,11 +289,6 @@ C:\Users\User\source\repos\InsurancePlatform\BackEnd\InsurancePlatform\obj\Debug
 C:\Users\User\source\repos\InsurancePlatform\BackEnd\InsurancePlatform\obj\Debug\net8.0\InsurancePlatform.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\User\source\repos\InsurancePlatform\BackEnd\InsurancePlatform\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\User\source\repos\InsurancePlatform\BackEnd\InsurancePlatform\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\User\source\repos\InsurancePlatform\BackEnd\InsurancePlatform\obj\Debug\net8.0\staticwebassets\msbuild.InsurancePlatform.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\User\source\repos\InsurancePlatform\BackEnd\InsurancePlatform\obj\Debug\net8.0\staticwebassets\msbuild.build.InsurancePlatform.props
-C:\Users\User\source\repos\InsurancePlatform\BackEnd\InsurancePlatform\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InsurancePlatform.props
-C:\Users\User\source\repos\InsurancePlatform\BackEnd\InsurancePlatform\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InsurancePlatform.props
-C:\Users\User\source\repos\InsurancePlatform\BackEnd\InsurancePlatform\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\User\source\repos\InsurancePlatform\BackEnd\InsurancePlatform\obj\Debug\net8.0\scopedcss\bundle\InsurancePlatform.styles.css
 C:\Users\User\source\repos\InsurancePlatform\BackEnd\InsurancePlatform\obj\Debug\net8.0\Insuranc.4E144938.Up2Date
 C:\Users\User\source\repos\InsurancePlatform\BackEnd\InsurancePlatform\obj\Debug\net8.0\InsurancePlatform.dll
@@ -301,3 +296,11 @@ C:\Users\User\source\repos\InsurancePlatform\BackEnd\InsurancePlatform\obj\Debug
 C:\Users\User\source\repos\InsurancePlatform\BackEnd\InsurancePlatform\obj\Debug\net8.0\InsurancePlatform.pdb
 C:\Users\User\source\repos\InsurancePlatform\BackEnd\InsurancePlatform\obj\Debug\net8.0\InsurancePlatform.genruntimeconfig.cache
 C:\Users\User\source\repos\InsurancePlatform\BackEnd\InsurancePlatform\obj\Debug\net8.0\ref\InsurancePlatform.dll
+C:\Users\User\source\repos\InsurancePlatform\BackEnd\InsurancePlatform\bin\Debug\net8.0\InsurancePlatform.staticwebassets.endpoints.json
+C:\Users\User\source\repos\InsurancePlatform\BackEnd\InsurancePlatform\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\User\source\repos\InsurancePlatform\BackEnd\InsurancePlatform\obj\Debug\net8.0\InsurancePlatform.sourcelink.json
+C:\Users\User\source\repos\InsurancePlatform\BackEnd\InsurancePlatform\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\User\source\repos\InsurancePlatform\BackEnd\InsurancePlatform\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\User\source\repos\InsurancePlatform\BackEnd\InsurancePlatform\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\source\repos\InsurancePlatform\BackEnd\InsurancePlatform\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\User\source\repos\InsurancePlatform\BackEnd\InsurancePlatform\obj\Debug\net8.0\staticwebassets.build.endpoints.json

@@ -10,7 +10,7 @@ namespace InsurancePlatform.Data
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
         public DbSet<Quote> Quotes { get; set; }
-        public DbSet<MotorRisk> MotorRisks { get; set; } // Add this line
+        public DbSet<MotorRisk> MotorRisks { get; set; }
         public DbSet<Address> Addresses { get; set; }
         public DbSet<PhoneNumber> PhoneNumbers { get; set; }
         public DbSet<Email> Emails { get; set; }

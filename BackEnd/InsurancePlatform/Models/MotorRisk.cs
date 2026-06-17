@@ -1,6 +1,4 @@
 ﻿using InsurancePlatform;
-using System.ComponentModel.DataAnnotations.Schema;
-
 
     public class MotorRisk
     {
@@ -12,8 +10,7 @@ using System.ComponentModel.DataAnnotations.Schema;
         public decimal Rate { get; set; }
         public decimal Premium => SumInsured * Rate;
 
-        [ForeignKey("Quote")]
         public int QuoteId { get; set; }
-        public Quote Quote { get; set; } // Navigation property
+        public Quote Quote { get; set; }
     }
 

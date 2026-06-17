@@ -19,7 +19,7 @@ public class ProfileController : ControllerBase
 
     // PUT: api/Profile/{id}/details
     [HttpPut("{id}/details")]
-    public async Task<IActionResult> UpdatePersonalDetails(int id, [FromBody] UpdateUserDto updateUserDto)
+    public async Task<IActionResult> UpdatePersonalDetails(string id, [FromBody] UpdateUserDto updateUserDto)
     {
         var user = await _context.Users.FindAsync(id);
         if (user == null) return NotFound();
@@ -35,7 +35,7 @@ public class ProfileController : ControllerBase
 
     // POST: api/Profile/{id}/address
     [HttpPost("{id}/address")]
-    public async Task<IActionResult> AddAddress(int id, [FromBody] AddressDto addressDto)
+    public async Task<IActionResult> AddAddress(string id, [FromBody] AddressDto addressDto)
     {
         var user = await _context.Users.FindAsync(id);
         if (user == null) return NotFound();
@@ -69,7 +69,7 @@ public class ProfileController : ControllerBase
 
     // POST: api/Profile/{id}/phone
     [HttpPost("{id}/phone")]
-    public async Task<IActionResult> AddPhoneNumber(int id, [FromBody] PhoneNumberDto phoneNumberDto)
+    public async Task<IActionResult> AddPhoneNumber(string id, [FromBody] PhoneNumberDto phoneNumberDto)
     {
         var user = await _context.Users.FindAsync(id);
         if (user == null) return NotFound();
@@ -99,7 +99,7 @@ public class ProfileController : ControllerBase
 
     // POST: api/Profile/{id}/email
     [HttpPost("{id}/email")]
-    public async Task<IActionResult> AddEmail(int id, [FromBody] EmailDto emailDto)
+    public async Task<IActionResult> AddEmail(string id, [FromBody] EmailDto emailDto)
     {
         var user = await _context.Users.FindAsync(id);
         if (user == null) return NotFound();

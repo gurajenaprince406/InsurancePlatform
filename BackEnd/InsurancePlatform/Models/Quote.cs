@@ -1,7 +1,6 @@
 ﻿
 using System.Collections.Generic;
 
-
     public class Quote
     {
         public int QuoteId { get; set; }
@@ -11,7 +10,7 @@ using System.Collections.Generic;
         public string PolicyType { get; set; }
         public string Branch { get; set; }
         public string QuoteNumber { get; set; }
-        public List<MotorRisk> MotorRisks { get; set; } // Relationship
+        public List<MotorRisk> MotorRisks { get; set; } = new List<MotorRisk>();
     }
 
 

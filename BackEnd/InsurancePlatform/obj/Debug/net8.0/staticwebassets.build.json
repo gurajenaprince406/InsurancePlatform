@@ -1,11 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "FH4tCMcX2nsDC5g4COqOw51ec43emAKMfw5ri5VAAAg=",
-  "Source": "InsurancePlatform",
-  "BasePath": "_content/InsurancePlatform",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
-}
+{"Version":1,"Hash":"iatI7cue+zuu+BD8+K+/b5yI3dvzFnJirIgMOd96r3o=","Source":"InsurancePlatform","BasePath":"_content/InsurancePlatform","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
